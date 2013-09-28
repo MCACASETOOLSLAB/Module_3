@@ -85,7 +85,7 @@ void main()
    
    x.erase_car(160,200);
    x.erase_car(460,200);
-   cout<<"Car erased.";
+   cout<<"Car Erased.";
    getch();
    x.draw_car(160,40);
    x.draw_car(460,40);
