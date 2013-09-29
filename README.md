@@ -6,7 +6,7 @@ This module  will create a process(car) as a process and then ersae the car afte
 
 But it will provide better result when we execute it with other two modules(The whole process is divided in three modules in which semaphores, busy waiting, spinlocks, monitors, critical section,etc are shown).
 
-Now you can read the code and its comments and see the result, experiment with it, and hopefully quickly grasp how things work.
+Now you can read the code and its comments and see the result,do experiment with it, and hopefully quickly grasp how things work.
 
 If you find a problem, incorrect comment, obsolete or improper code or such, please let me know
 
